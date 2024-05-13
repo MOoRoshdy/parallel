@@ -1,0 +1,3 @@
+﻿  improve_performance.cpp
+E:\college\Practical\parallel\improve_performance\improve_performance\improve_performance.cpp(8,22): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  improve_performance.vcxproj -> E:\college\Practical\parallel\improve_performance\x64\Debug\improve_performance.exe

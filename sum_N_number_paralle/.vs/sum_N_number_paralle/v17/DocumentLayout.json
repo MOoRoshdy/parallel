@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\college\\Practical\\parallel\\sum_N_number_paralle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E9C10C6F-FFB1-4B9F-BE90-20247FBCAB57}|sum_N_number_paralle\\sum_N_number_paralle.vcxproj|E:\\college\\Practical\\parallel\\sum_N_number_paralle\\sum_N_number_paralle\\sum_N_number_paralle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9C10C6F-FFB1-4B9F-BE90-20247FBCAB57}|sum_N_number_paralle\\sum_N_number_paralle.vcxproj|solutionrelative:sum_N_number_paralle\\sum_N_number_paralle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sum_N_number_paralle.cpp",
+              "DocumentMoniker": "E:\\college\\Practical\\parallel\\sum_N_number_paralle\\sum_N_number_paralle\\sum_N_number_paralle.cpp",
+              "RelativeDocumentMoniker": "sum_N_number_paralle\\sum_N_number_paralle.cpp",
+              "ToolTip": "E:\\college\\Practical\\parallel\\sum_N_number_paralle\\sum_N_number_paralle\\sum_N_number_paralle.cpp",
+              "RelativeToolTip": "sum_N_number_paralle\\sum_N_number_paralle.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-05T22:37:22.518Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

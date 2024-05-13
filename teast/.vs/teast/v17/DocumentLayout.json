@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\college\\Practical\\parallel\\teast\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{157102F5-179E-4FCD-86B6-E0083B810E09}|teast\\teast.vcxproj|E:\\college\\Practical\\parallel\\teast\\teast\\teast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{157102F5-179E-4FCD-86B6-E0083B810E09}|teast\\teast.vcxproj|solutionrelative:teast\\teast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "teast.cpp",
+              "DocumentMoniker": "E:\\college\\Practical\\parallel\\teast\\teast\\teast.cpp",
+              "RelativeDocumentMoniker": "teast\\teast.cpp",
+              "ToolTip": "E:\\college\\Practical\\parallel\\teast\\teast\\teast.cpp",
+              "RelativeToolTip": "teast\\teast.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-11T09:34:10.576Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

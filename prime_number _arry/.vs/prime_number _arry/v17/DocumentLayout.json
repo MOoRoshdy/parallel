@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\college\\Practical\\parallel\\prime_number _arry\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{010BE854-E241-403B-B0A7-3775AF635782}|prime_number _arry\\prime_number _arry.vcxproj|E:\\college\\Practical\\parallel\\prime_number _arry\\prime_number _arry\\prime_number _arry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{010BE854-E241-403B-B0A7-3775AF635782}|prime_number _arry\\prime_number _arry.vcxproj|solutionrelative:prime_number _arry\\prime_number _arry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "prime_number _arry.cpp",
+              "DocumentMoniker": "E:\\college\\Practical\\parallel\\prime_number _arry\\prime_number _arry\\prime_number _arry.cpp",
+              "RelativeDocumentMoniker": "prime_number _arry\\prime_number _arry.cpp",
+              "ToolTip": "E:\\college\\Practical\\parallel\\prime_number _arry\\prime_number _arry\\prime_number _arry.cpp",
+              "RelativeToolTip": "prime_number _arry\\prime_number _arry.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-30T17:33:21.731Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

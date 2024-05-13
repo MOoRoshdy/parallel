@@ -1,0 +1,2 @@
+﻿sum_N_number_serial.obj : error LNK2005: main already defined in parrallel.obj
+E:\college\Practical\parallel\sum_N_number_serial\x64\Debug\sum_N_number_serial.exe : fatal error LNK1169: one or more multiply defined symbols found
